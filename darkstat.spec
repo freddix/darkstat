@@ -1,11 +1,11 @@
 Summary:	Network statistics gatherer (packet sniffer)
 Name:		darkstat
-Version:	3.0.717
+Version:	3.0.718
 Release:	1
 License:	GPL v2
 Group:		Applications/Networking
 Source0:	http://dmr.ath.cx/net/darkstat/%{name}-%{version}.tar.bz2
-# Source0-md5:	d1790c2eba4fd7f442309c246683f0c1
+# Source0-md5:	1fb31ac01d4689493c917fa622a002e7
 URL:		http://dmr.ath.cx/net/darkstat/
 BuildRequires:	libpcap-devel
 BuildRequires:	zlib-devel
